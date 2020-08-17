@@ -1,0 +1,79 @@
+html body {
+  --background-color: rgb(8,0,139);
+  --gradient-color: linear-gradient(90deg, rgba(8,0,139,0.9472382703081232) 0%, rgba(9,9,121,1) 29%, rgba(0,212,255,1) 100%);
+
+}
+
+
+.profileWrapper {
+  display: flex;
+  text-align: center;
+  color:	rgb(105, 106, 108);
+  font-weight: bold;
+  background-color: rgb(102, 98, 99, .80);
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background: rgb(162, 165, 162);
+  box-shadow: 3px 3px 3px black;
+  
+
+}
+
+.mainHeader {
+  color: 	rgb(20, 19, 21, .80);
+  font-family: 'Holtwood One SC', serif;
+  margin: 0;
+  padding: 0;
+  box-shadow: 3px 3px 3px black;
+}
+
+.mainPicture {
+  border-radius: 50%;
+  border: white 5px double;
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
+.description{
+  color: rgb(162, 165, 162);
+}
+
+
+
+
+
+.profileContainer {
+  width: 800px;
+  height: auto;
+  margin: 0 auto;
+  background-color: black;
+  border: 1px white solid;
+
+}
+
+
+
+
+.profileContainer p {
+  font-size: 20px;
+  padding: 10px;
+  border: solid 2px grey;
+}
+
+
+
+
+.optionValues {
+  margin-bottom: 10px;
+}
+
+
+
